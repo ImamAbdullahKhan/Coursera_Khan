@@ -12,7 +12,7 @@
  * @file stats.c 
  * @brief Its a program made for coursera course assigment which does the following :
     Prints Array
-    Prints Statistical Data(Mean, Max, Min);
+    Prints Statistical Data(Mean, Max, Min) and
     Prints Median
  *
  * <Add Extended Description Here>
